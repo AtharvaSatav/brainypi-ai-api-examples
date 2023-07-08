@@ -3,7 +3,7 @@ import cv2
 import argparse
 
 api_url = "http://localhost:9900/obj_detect"
-image_path = "../../sample_inputs/images"
+image_path = "../../sample_inputs/car.jpg"
 
 def main():
 
